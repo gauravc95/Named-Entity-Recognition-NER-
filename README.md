@@ -1,3 +1,9 @@
+## The prerequisites software & libraries for the sign language project are:
++ Python3
++ NodeJs
++ spaCy
++ Tensorflow
+
 ## Run following commands to get the app running:
 + make install FRONTEND=vue-frontend BACKEND=flask-backend 
 + make start FRONTEND=vue-frontend BACKEND=flask-backend
