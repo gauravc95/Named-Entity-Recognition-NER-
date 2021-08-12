@@ -1,4 +1,4 @@
-## The prerequisites software & libraries for the sign language project are:
+## The prerequisites libraries for Named Entity Recognition(NER) project are:
 + Python3
 + NodeJs
 + spaCy
